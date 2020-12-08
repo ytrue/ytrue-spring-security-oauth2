@@ -3,6 +3,6 @@
 
 # 测试图片
 
-![](doc\images\1.png)
+![](https://raw.githubusercontent.com/ytrue/ytrue-spring-security-oauth2/main/doc/images/1.png)
 
-![](doc\images\2.png)
+![](https://raw.githubusercontent.com/ytrue/ytrue-spring-security-oauth2/main/doc/images/2.png)
